@@ -63,7 +63,6 @@ submission/
   model.pth         # state_dict model terbaik (epoch 25)
   requirements.txt  # (opsional) paket tambahan
 evaluate.py         # salinan skrip evaluasi resmi
-<NAMA_NOTEBOOK>.ipynb  # notebook pelatihan kelompok
-training.log        # log pelatihan per epoch
+DL_CNN.ipynb  # notebook pelatihan kelompok
 ...
 ```
