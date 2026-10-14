@@ -7,7 +7,7 @@ Deep Learning (IF25-40401) · Teknik Informatika ITERA · Semester Ganjil 2026/2
 | No | Nama Lengkap            | NIM       | Kontribusi utama |
 |----|-------------------------|-----------|------------------|
 | 1  | Muhammad Fadhil Hawari  | 123140147 | Training dan validasi model |
-| 2  | Muhammad Rafly Yahya    | 123140148 | Tuning model |
+| 2  | Muhammad Rafly Yahya Ramadhan    | 123140148 | Tuning model |
 | 3  | Muhammad Royhan Alfitra | 123140146 | Arsitektur model dan dokumentasi |
 
 ## Ringkasan Pendekatan
